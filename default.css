@@ -91,7 +91,8 @@ body::before {
 	font-size:16px
 }
 #code .string {
-	color:#2a36ff
+	/*color:#2a36ff*/
+	color:#ADD8E6
 }
 #code .string1 {
 	color:#2a36ff;
