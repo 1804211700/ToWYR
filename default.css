@@ -110,7 +110,8 @@ body::before {
 	margin-left:7px
 }
 #code .comments {
-	color:#3f7f5f
+	/*color:#3f7f5f*/
+	color:#ADD8E6
 }
 #copyright {
 	margin-top:10px;
