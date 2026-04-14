@@ -17,7 +17,7 @@ body::before {
     width: 120%;
     height: 160%;
     /* 设置背景图片 */
-    background-image: url('yx.jpg');
+    background-image: url('xy1.jpg');
     /* 背景图片覆盖整个容器 */
     background-size: cover;
     /* 背景图片居中 */
@@ -109,7 +109,7 @@ body::before {
 }
 #code .comments {
 	/*color:#3f7f5f*/
-	color:#ADD8E6
+	color:darkblue
 }
 #copyright {
 	margin-top:10px;
