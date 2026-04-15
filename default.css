@@ -60,6 +60,8 @@ body::before {
 	color:#666
 }
 #messages {
+	margin-right:160px;
+	text-align:right;
 	display:none
 }
 #elapseClock .digit {
