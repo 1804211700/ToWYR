@@ -60,7 +60,7 @@ body::before {
 	color:#666
 }
 #messages {
-	text-align:right;
+	text-align:center;
 	display:none
 }
 #otherworld {
