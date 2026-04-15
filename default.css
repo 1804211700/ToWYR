@@ -60,12 +60,12 @@ body::before {
 	color:#666
 }
 #messages {
-	margin-right:145px;
 	text-align:right;
 	display:none
 }
-#clock {
+#otherworld {
 	text-align:right;
+	margin-right:145px;
 	display:none
 }
 #elapseClock .digit {
