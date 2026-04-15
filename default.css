@@ -15,7 +15,7 @@ body::before {
     top: 0;
     left: 0;
     width: 120%;
-    height: 160%;
+    height: 360%;
     /* 设置背景图片 */
     background-image: url('xy3.jpg');
     /* 背景图片覆盖整个容器 */
