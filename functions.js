@@ -103,7 +103,7 @@ function timeElapse(c) {
     }
     var a='<span class="digit">'+g+'</span> days <span class="digit">'+b+'</span> hours <span class="digit">'+d+'</span> minutes <span class="digit">'+f+"</span> seconds &emsp;";
     $("#elapseClock").html(a)}function showMessages() {
-    $("#messages").fadeIn(5000,function() {
+    $("#clock").fadeIn(5000,function() {
             showLoveU()
         }
     )}function adjustWordsPosition() {
