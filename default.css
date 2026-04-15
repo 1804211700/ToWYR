@@ -60,7 +60,7 @@ body::before {
 	color:#666
 }
 #messages {
-	margin-right:160px;
+	margin-right:155px;
 	text-align:right;
 	display:none
 }
@@ -75,7 +75,7 @@ body::before {
 	padding:5px;
 	font-size:22px;
 	margin-top:70px;
-	margin-right:170px;
+	margin-right:155px;
 	text-align:right;
 	display:none
 }
