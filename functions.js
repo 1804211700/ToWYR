@@ -85,7 +85,7 @@ function startHeartAnimation() {
         return this}})(jQuery);
 function timeElapse(c) {
     var e=Date();
-    var f=(Date.parse(e)-Date.parse(c))/1000;
+    var f=(Date.parse(c)-Date.parse(e))/1000;
     var g=Math.floor(f/(3600*24));
     f=f%(3600*24);
     var b=Math.floor(f/3600);
@@ -103,7 +103,7 @@ function timeElapse(c) {
     }
     var a='<span class="digit">'+g+'</span> days <span class="digit">'+b+'</span> hours <span class="digit">'+d+'</span> minutes <span class="digit">'+f+"</span> seconds &emsp;";
     $("#elapseClock").html(a)}function showMessages() {
-    $("#clock").fadeIn(5000,function() {
+    $("#messages").fadeIn(5000,function() {
             showLoveU()
         }
     )}function adjustWordsPosition() {
