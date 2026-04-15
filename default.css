@@ -65,6 +65,7 @@ body::before {
 	display:none
 }
 #clock {
+	text-align:right;
 	display:none
 }
 #elapseClock .digit {
